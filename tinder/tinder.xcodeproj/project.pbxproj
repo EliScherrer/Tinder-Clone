@@ -14,6 +14,8 @@
 		3E3C5D63204E0860004BEA4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3C5D61204E0860004BEA4C /* LaunchScreen.storyboard */; };
 		3E3C5D6E204E0860004BEA4C /* tinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3C5D6D204E0860004BEA4C /* tinderTests.swift */; };
 		3E3C5D79204E0861004BEA4C /* tinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3C5D78204E0861004BEA4C /* tinderUITests.swift */; };
+		3E3C5D87204E0A5A004BEA4C /* CardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3C5D86204E0A5A004BEA4C /* CardsViewController.swift */; };
+		3E3C5D89204E0A6B004BEA4C /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3C5D88204E0A6B004BEA4C /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3E3C5D74204E0861004BEA4C /* tinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E3C5D78204E0861004BEA4C /* tinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tinderUITests.swift; sourceTree = "<group>"; };
 		3E3C5D7A204E0861004BEA4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E3C5D86204E0A5A004BEA4C /* CardsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsViewController.swift; sourceTree = "<group>"; };
+		3E3C5D88204E0A6B004BEA4C /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				3E3C5D5F204E0860004BEA4C /* Assets.xcassets */,
 				3E3C5D61204E0860004BEA4C /* LaunchScreen.storyboard */,
 				3E3C5D64204E0860004BEA4C /* Info.plist */,
+				3E3C5D86204E0A5A004BEA4C /* CardsViewController.swift */,
+				3E3C5D88204E0A6B004BEA4C /* ProfileViewController.swift */,
 			);
 			path = tinder;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 			files = (
 				3E3C5D5B204E0860004BEA4C /* ViewController.swift in Sources */,
 				3E3C5D59204E0860004BEA4C /* AppDelegate.swift in Sources */,
+				3E3C5D89204E0A6B004BEA4C /* ProfileViewController.swift in Sources */,
+				3E3C5D87204E0A5A004BEA4C /* CardsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
